@@ -23,3 +23,6 @@
   * `lesson_11/` — Теория информации.
   * `lesson_12/` — Математика трансформеров.
 * `requirements.txt` — зависимости Python.
+
+## Стек
+* Jupyter Notebook, CMD, GitHub
