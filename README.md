@@ -25,4 +25,8 @@
 * `requirements.txt` — зависимости Python.
 
 ## Стек
-* Jupyter Notebook, CMD, GitHub
+* Jupyter Notebook, CMD, GitHub, Python, Numpy
+
+## Дополнительные рекомендованные материалы для закрепления курса
+* ### `Видеоматериалы:`
+  * `3Blue1Brown — Essence of Linear Algebra, Essence of Calculus`
