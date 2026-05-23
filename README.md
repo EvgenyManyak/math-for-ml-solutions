@@ -29,4 +29,4 @@
 
 ## Дополнительные рекомендованные материалы для закрепления курса
 * ### `Видеоматериалы:`
-  * `3Blue1Brown — Essence of Linear Algebra, Essence of Calculus`
+  * `3Blue1Brown — Essence of Linear Algebra (Сущность Линейной Алгебры)`
