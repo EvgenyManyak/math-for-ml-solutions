@@ -1,0 +1,2 @@
+*.ipynb text eol=lf
+*.ipynb diff=ipython
