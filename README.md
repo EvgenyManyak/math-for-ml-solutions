@@ -27,6 +27,7 @@
 
 ## Дополнительные материалы для закрепления курса
 * ### `Видеоматериалы:`
-  * `3Blue1Brown — Essence of Linear Algebra (Сущность Линейной Алгебры)`
+  * `3Blue1Brown - Essence of Linear Algebra (Сущность Линейной Алгебры)`
+  * `SelfEdu - Векторы и преобразования`
 * ### `Книги:`
   * `Mathematics for Machine Learning (Математика в машинном обучении) — Deisenroth, Faisal, Ong.`
