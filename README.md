@@ -33,5 +33,5 @@
 * ### `Видеоматериалы:`
   * `3Blue1Brown - Essence of Linear Algebra (Сущность Линейной Алгебры)`
   * `SelfEdu - Векторы и преобразования`
-* ### `Книги:`
+* 📖 ### `Книги:`
   * `Mathematics for Machine Learning (Математика в машинном обучении) — Deisenroth, Faisal, Ong.`
