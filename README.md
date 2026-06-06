@@ -25,10 +25,10 @@
   * 📁 `lesson_11/` — Теория информации.
   * 📁 `lesson_12/` — Математика трансформеров.
 * 📁 `venv` — Виртуальное окружение
-* 📄 `requirements.txt` — зависимости Python.
+* 📄 `requirements.txt` — Зависимости Python.
 
 ## 🛠️ Стек
-* `Jupyter Notebook, CMD, GitHub, Python (Numpy, Matplotlib)`
+* `Jupyter Notebook, Git Bash, GitHub, Python (Numpy, Matplotlib)`
 
 ## 🎯 Дополнительные материалы для закрепления курса
 * ### 📺 Видеоматериалы:
