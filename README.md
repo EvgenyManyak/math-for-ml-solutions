@@ -23,7 +23,7 @@
 * `requirements.txt` — зависимости Python.
 
 ## Стек
-* Jupyter Notebook, CMD, GitHub, Python, Numpy, Matplotlib
+* Jupyter Notebook, CMD, GitHub, Python (Numpy, Matplotlib)
 
 ## Дополнительные материалы для закрепления курса
 * ### `Видеоматериалы:`
