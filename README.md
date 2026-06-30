@@ -28,7 +28,7 @@
 * 📄 `requirements.txt` — Зависимости Python.
 
 ## 🛠️ Стек
-* `Jupyter Notebook, Git Bash, GitHub, Python (Numpy, Matplotlib)`
+* `Jupyter Notebook, Git Bash, GitHub, Python (Numpy, Matplotlib, Scikit-learn, Pandas)`
 
 ## 🎯 Дополнительные материалы для закрепления курса
 * ### 📺 Видеоматериалы:
