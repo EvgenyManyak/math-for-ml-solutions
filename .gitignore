@@ -227,3 +227,4 @@ env/
 # Игнорируем большие файлы эмбеддингов
 data/glove.*.txt
 data/ml-100k/
+data/documents.txt
